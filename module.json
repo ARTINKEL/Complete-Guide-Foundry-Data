@@ -48,7 +48,7 @@
 			"entity": "Actor"
 		},
 		{
-			"name": "Tables",
+			"name": "tables",
 			"label": "CG Tables",
 			"path": "./packs/tables.db",
 			"entity": "RollTable"
@@ -58,9 +58,27 @@
 			"label": "CG Conditions",
 			"path": "./packs/conditions.db",
 			"entity": "Item"
+		},
+		{
+			"name": "other-options",
+			"label": "CG Other Options",
+			"path": "./packs/other-options.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vehicles",
+			"label": "CG Vehicles",
+			"path": "./packs/vehicles.db",
+			"entity": "Actor"
+		},
+		{
+			"name": "vehicle-options",
+			"label": "CG Vehicle Options",
+			"path": "./packs/vehicle-options.db",
+			"entity": "Item"
 		}
 	],
-	"url": "https://github.com/ARTINKEL/Foundry-Shared-Data",
-    "manifest": "https://raw.githubusercontent.com/ARTINKEL/Foundry-Shared-Data/master/module.json",
+	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
+    "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
     "download": "https://github.com/ARTINKEL/Foundry-Shared-Data/releases/download/0.0.1/Foundry-Shared-Data.zip"
 }
