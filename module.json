@@ -2,8 +2,11 @@
 	"name": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing data between worlds",
-	"version": "1.0.0",
+	"version": "0.6.0",
 	"minimumCoreVersion": "0.7.4",
+	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
+    "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
+    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/0.6.0.zip",
 	"packs": [
 		{
 			"name": "items",
@@ -77,8 +80,5 @@
 			"path": "./packs/vehicle-options.db",
 			"entity": "Item"
 		}
-	],
-	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
-    "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
-    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/0.6.0.zip"
+	]
 }
