@@ -1,0 +1,66 @@
+{
+	"name": "complete-guide-compendium",
+	"title": "Complete Guide Compendium",
+	"description": "Sharing data between worlds",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.7.4",
+	"packs": [
+		{
+			"name": "items",
+			"label": "CG Items",
+			"path": "./packs/items.db",
+			"entity": "Item"
+		},
+		{
+			"name": "classes",
+			"label": "CG Classes",
+			"path": "./packs/classes.db",
+			"entity": "Item"
+		},
+		{
+			"name": "races",
+			"label": "CG Races",
+			"path": "./packs/races.db",
+			"entity": "Item"
+		},
+		{
+			"name": "spells",
+			"label": "CG Spells",
+			"path": "./packs/spells.db",
+			"entity": "Item"
+		},
+		{
+			"name": "feats",
+			"label": "CG Feats",
+			"path": "./packs/feats.db",
+			"entity": "Item"
+		},
+		{
+			"name": "backgrounds",
+			"label": "CG Backgrounds",
+			"path": "./packs/backgrounds.db",
+			"entity": "Item"
+		},
+		{
+			"name": "monsters",
+			"label": "CG Monsters",
+			"path": "./packs/monsters.db",
+			"entity": "Actor"
+		},
+		{
+			"name": "Tables",
+			"label": "CG Tables",
+			"path": "./packs/tables.db",
+			"entity": "RollTable"
+		},
+		{
+			"name": "conditions",
+			"label": "CG Conditions",
+			"path": "./packs/conditions.db",
+			"entity": "Item"
+		}
+	],
+	"url": "https://github.com/ARTINKEL/Foundry-Shared-Data",
+    "manifest": "https://raw.githubusercontent.com/ARTINKEL/Foundry-Shared-Data/master/module.json",
+    "download": "https://github.com/ARTINKEL/Foundry-Shared-Data/releases/download/0.0.1/Foundry-Shared-Data.zip"
+}
