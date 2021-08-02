@@ -2,7 +2,7 @@
 	"name": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing data between worlds",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"minimumCoreVersion": "0.7.4",
 	"packs": [
 		{
@@ -76,6 +76,18 @@
 			"label": "CG Vehicle Options",
 			"path": "./packs/vehicle-options.db",
 			"entity": "Item"
+		},
+		{
+			"name": "class-features",
+			"label": "CG Class Features",
+			"path": "./packs/class-features.db",
+			"entity": "Item"
+		},
+		{
+			"name": "deities",
+			"label": "CG Deities",
+			"path": "./packs/deities.db",
+			"entity": "JournalEntry"
 		}
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
