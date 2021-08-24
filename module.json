@@ -60,12 +60,6 @@
 			"entity": "Item"
 		},
 		{
-			"name": "other-options",
-			"label": "CG Other Options",
-			"path": "./packs/other-options.db",
-			"entity": "Item"
-		},
-		{
 			"name": "vehicles",
 			"label": "CG Vehicles",
 			"path": "./packs/vehicles.db",
@@ -88,9 +82,69 @@
 			"label": "CG Deities",
 			"path": "./packs/deities.db",
 			"entity": "JournalEntry"
+		},
+		{
+			"name": "eldritch-invocations",
+			"label": "CG Eldritch Invocations",
+			"path": "./packs/eldritch-invocations.db",
+			"entity": "Item"
+		},
+		{
+			"name": "fighting-styles",
+			"label": "CG Fighting Styles",
+			"path": "./packs/fighting-styles.db",
+			"entity": "Item"
+		},
+		{
+			"name": "paragon-flairs",
+			"label": "CG Paragon Flairs",
+			"path": "./packs/paragon-flairs.db",
+			"entity": "Item"
+		},
+		{
+			"name": "artificer-upgrades",
+			"label": "CG Artificer Upgrades",
+			"path": "./packs/artificer-upgrades.db",
+			"entity": "Item"
+		},
+		{
+			"name": "erudite-applications",
+			"label": "CG Erudite Applications",
+			"path": "./packs/erudite-applications.db",
+			"entity": "Item"
+		},
+		{
+			"name": "blood-maledicts",
+			"label": "CG Blood Maledicts",
+			"path": "./packs/blood-maledicts.db",
+			"entity": "Item"
+		},
+		{
+			"name": "mutagens",
+			"label": "CG Mutagens",
+			"path": "./packs/mutagens.db",
+			"entity": "Item"
+		},
+		{
+			"name": "battlemaster-maneuvers",
+			"label": "CG Battlemaster Maneuvers",
+			"path": "./packs/battlemaster-maneuvers.db",
+			"entity": "Item"
+		},
+		{
+			"name": "metamagic",
+			"label": "CG Metamagic",
+			"path": "./packs/metamagic.db",
+			"entity": "Item"
+		},
+		{
+			"name": "arcane-shots",
+			"label": "CG Arcane Shots",
+			"path": "./packs/arcane-shots.db",
+			"entity": "Item"
 		}
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
     "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
-    "download": "https://github.com/ARTINKEL/Foundry-Shared-Data/releases/download/0.0.1/Foundry-Shared-Data.zip"
+    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/0.9.0.zip"
 }
