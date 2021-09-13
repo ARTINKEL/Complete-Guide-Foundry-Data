@@ -2,7 +2,7 @@
 	"name": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing 5e data between worlds",
-	"version": "0.9.5",
+	"version": "1.2.0",
 	"minimumCoreVersion": "0.7.4",
 	"packs": [
 		{
