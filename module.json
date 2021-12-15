@@ -2,7 +2,7 @@
 	"name": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing 5e data between worlds",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"minimumCoreVersion": "0.7.4",
 	"packs": [
 		{
@@ -142,6 +142,18 @@
 			"label": "CG Arcane Shots",
 			"path": "./packs/arcane-shots.db",
 			"entity": "Item"
+		},
+		{
+			"name": "race-features",
+			"label": "CG Racial Features",
+			"path": "./packs/race-features.db",
+			"entity": "Item"
+		},
+		{
+			"name": "appendices",
+			"label": "CG Appendices",
+			"path": "./packs/appendices.db",
+			"entity": "JournalEntry"
 		}
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
