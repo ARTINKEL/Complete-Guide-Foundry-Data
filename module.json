@@ -154,6 +154,12 @@
 			"label": "CG Appendices",
 			"path": "./packs/appendices.db",
 			"entity": "JournalEntry"
+		},
+		{
+			"name": "battlemaps",
+			"label": "CG Battlemaps",
+			"path": "./packs/battlemaps.db",
+			"entity": "Scene"
 		}
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
