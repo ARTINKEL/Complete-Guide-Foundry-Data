@@ -2,7 +2,7 @@
 	"name": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing 5e data between worlds",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"minimumCoreVersion": "0.7.4",
 	"packs": [
 		{
@@ -164,5 +164,5 @@
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
     "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
-    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/1.4.0.zip"
+    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/1.5.0.zip"
 }
