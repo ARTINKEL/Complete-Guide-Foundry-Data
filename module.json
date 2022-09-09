@@ -1,168 +1,207 @@
 {
-	"name": "complete-guide-compendium",
+	"id": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing 5e data between worlds",
-	"version": "1.5.0",
-	"minimumCoreVersion": "0.7.4",
+	"version": "1.6.0",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10.285"
+	},
+	"authors": [
+		{
+			"name": "Austin Tinkel"
+		}
+	],
+	"keywords": [
+		"content"
+	],
+	"readme": "README.md",
+	"license": "UNLICENSED",
 	"packs": [
 		{
 			"name": "items",
 			"label": "CG Items",
 			"path": "./packs/items.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "classes",
 			"label": "CG Classes",
 			"path": "./packs/classes.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "races",
 			"label": "CG Races",
 			"path": "./packs/races.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "spells",
 			"label": "CG Spells",
 			"path": "./packs/spells.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "feats",
 			"label": "CG Feats",
 			"path": "./packs/feats.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "backgrounds",
 			"label": "CG Backgrounds",
 			"path": "./packs/backgrounds.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "monsters",
 			"label": "CG Monsters",
 			"path": "./packs/monsters.db",
-			"entity": "Actor"
+			"type": "Actor",
+			"system": "dnd5e"
 		},
 		{
 			"name": "tables",
 			"label": "CG Tables",
 			"path": "./packs/tables.db",
-			"entity": "RollTable"
+			"type": "RollTable",
+			"system": "dnd5e"
 		},
 		{
 			"name": "conditions",
 			"label": "CG Conditions",
 			"path": "./packs/conditions.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "vehicles",
 			"label": "CG Vehicles",
 			"path": "./packs/vehicles.db",
-			"entity": "Actor"
+			"type": "Actor",
+			"system": "dnd5e"
 		},
 		{
 			"name": "vehicle-options",
 			"label": "CG Vehicle Options",
 			"path": "./packs/vehicle-options.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "class-features",
 			"label": "CG Class Features",
 			"path": "./packs/class-features.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "deities",
 			"label": "CG Deities",
 			"path": "./packs/deities.db",
-			"entity": "JournalEntry"
+			"type": "JournalEntry",
+			"system": "dnd5e"
 		},
 		{
 			"name": "eldritch-invocations",
 			"label": "CG Eldritch Invocations",
 			"path": "./packs/eldritch-invocations.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "fighting-styles",
 			"label": "CG Fighting Styles",
 			"path": "./packs/fighting-styles.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "paragon-flairs",
 			"label": "CG Paragon Flairs",
 			"path": "./packs/paragon-flairs.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "artificer-upgrades",
 			"label": "CG Artificer Upgrades",
 			"path": "./packs/artificer-upgrades.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "erudite-applications",
 			"label": "CG Erudite Applications",
 			"path": "./packs/erudite-applications.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "blood-maledicts",
 			"label": "CG Blood Maledicts",
 			"path": "./packs/blood-maledicts.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "mutagens",
 			"label": "CG Mutagens",
 			"path": "./packs/mutagens.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "battlemaster-maneuvers",
 			"label": "CG Battlemaster Maneuvers",
 			"path": "./packs/battlemaster-maneuvers.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "metamagic",
 			"label": "CG Metamagic",
 			"path": "./packs/metamagic.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "arcane-shots",
 			"label": "CG Arcane Shots",
 			"path": "./packs/arcane-shots.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "race-features",
 			"label": "CG Racial Features",
 			"path": "./packs/race-features.db",
-			"entity": "Item"
+			"type": "Item",
+			"system": "dnd5e"
 		},
 		{
 			"name": "appendices",
 			"label": "CG Appendices",
 			"path": "./packs/appendices.db",
-			"entity": "JournalEntry"
+			"type": "JournalEntry",
+			"system": "dnd5e"
 		},
 		{
 			"name": "battlemaps",
 			"label": "CG Battlemaps",
 			"path": "./packs/battlemaps.db",
-			"entity": "Scene"
+			"type": "Scene",
+			"system": "dnd5e"
 		}
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
     "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
-    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/1.5.0.zip"
+    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/raw/master/complete-guide-compendium.zip"
 }
