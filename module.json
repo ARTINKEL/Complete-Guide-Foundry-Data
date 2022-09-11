@@ -2,7 +2,7 @@
 	"id": "complete-guide-compendium",
 	"title": "Complete Guide Compendium",
 	"description": "Sharing 5e data between worlds",
-	"version": "1.6.0",
+	"version": "1.6.1",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10.285"
@@ -82,31 +82,10 @@
 			"system": "dnd5e"
 		},
 		{
-			"name": "vehicles",
-			"label": "CG Vehicles",
-			"path": "./packs/vehicles.db",
-			"type": "Actor",
-			"system": "dnd5e"
-		},
-		{
-			"name": "vehicle-options",
-			"label": "CG Vehicle Options",
-			"path": "./packs/vehicle-options.db",
-			"type": "Item",
-			"system": "dnd5e"
-		},
-		{
 			"name": "class-features",
 			"label": "CG Class Features",
 			"path": "./packs/class-features.db",
 			"type": "Item",
-			"system": "dnd5e"
-		},
-		{
-			"name": "deities",
-			"label": "CG Deities",
-			"path": "./packs/deities.db",
-			"type": "JournalEntry",
 			"system": "dnd5e"
 		},
 		{
@@ -192,16 +171,9 @@
 			"path": "./packs/appendices.db",
 			"type": "JournalEntry",
 			"system": "dnd5e"
-		},
-		{
-			"name": "battlemaps",
-			"label": "CG Battlemaps",
-			"path": "./packs/battlemaps.db",
-			"type": "Scene",
-			"system": "dnd5e"
 		}
 	],
 	"url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
     "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
-    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/raw/master/complete-guide-compendium.zip"
+    "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/1.6.1.zip"
 }
