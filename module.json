@@ -10,6 +10,11 @@
   "authors": [
     {
       "name": "Austin Tinkel",
+      "url": "https://austin-tinkel.com",
+      "flags": {}
+    },
+    {
+      "name": "Jacob Foxe",
       "flags": {}
     }
   ],
