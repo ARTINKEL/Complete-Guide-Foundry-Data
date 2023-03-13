@@ -2,7 +2,7 @@
   "id": "complete-guide-compendium",
   "title": "Complete Guide Compendium",
   "description": "Sharing 5e data between worlds",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10.291"
@@ -47,6 +47,15 @@
       "name": "subclasses",
       "label": "CG Subclasses",
       "path": "packs/subclasses.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+	{
+      "name": "subclasses-2",
+      "label": "CG Subclasses 2",
+      "path": "packs/subclasses-2.db",
       "type": "Item",
       "system": "dnd5e",
       "private": false,
@@ -253,5 +262,5 @@
   ],
   "url": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data",
   "manifest": "https://raw.githubusercontent.com/ARTINKEL/Complete-Guide-Foundry-Data/master/module.json",
-  "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/1.7.0.zip"
+  "download": "https://github.com/ARTINKEL/Complete-Guide-Foundry-Data/archive/refs/tags/1.8.0.zip"
 }
